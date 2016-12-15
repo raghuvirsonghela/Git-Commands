@@ -1,0 +1,21 @@
+* Git commands *
+
+git --version :
+To know the version of the installed git.
+
+git config --global user.name "Raghuvir Songhela":
+Set up user name in the configuration file
+
+git config --global user.email "raghuvirsonghela@gmail.com":
+Set up user mailing id in the configuration file
+
+git config --list:
+List down the configuration file parameters
+
+git config user.name:
+Check a particular field (user.name in this case) in the configuration file
+
+git init:
+Initialize a git repository
+
+
